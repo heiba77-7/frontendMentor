@@ -115,7 +115,10 @@ section section p{
     .sectionTop{
         justify-content: space-between;
         align-items: start;
-        padding-bottom: 1%;
+        padding: 1% 4%;
+    }
+    .sectionTop section{
+        padding:1% 4%;
     }
     .sectionTopLeft{
         width: 46%;
