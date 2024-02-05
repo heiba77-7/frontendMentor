@@ -95,7 +95,7 @@ button{
 button img{
     margin-right: 5%;
 }
-@media(max-width:375px){
+@media(min-width:375px) and (max-width:750px){
     main{
         flex-wrap: wrap;
         width:100%;
